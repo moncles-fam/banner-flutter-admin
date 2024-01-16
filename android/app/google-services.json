@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298606010083",
+    "project_id": "banner-bf3a0",
+    "storage_bucket": "banner-bf3a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298606010083:android:22846455a36128a59aafd6",
+        "android_client_info": {
+          "package_name": "com.banner_flutter.package_name"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZqczqVZpvAP5v662fniasW-ThJW0tgRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298606010083:android:019fe96a553283e99aafd6",
+        "android_client_info": {
+          "package_name": "com.moncles.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZqczqVZpvAP5v662fniasW-ThJW0tgRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
